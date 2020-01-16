@@ -1,11 +1,12 @@
 import React from 'react';
 
+import Routes from './routes';
 // import { Container } from './styles';
 
 function App() {
   return (
     <div className="App">
-      <h1>Ei José</h1>
+      <Routes />
     </div>
   );
 }
